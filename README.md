@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ ผม Watcharakorn Aungchokchatchawan
+# 👋 สวัสดีครับ ผม วัชรากร อังโชคชัชวาล
 
 ### 💻 Software Developer | Web Application Developer
 
