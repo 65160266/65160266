@@ -1,9 +1,7 @@
 # 👋 สวัสดีครับ ผม วัชรากร อังโชคชัชวาล
 
 ### 💻 Software Developer | Web Application Developer
-
 มีความสนใจเป็นพิเศษในด้าน **Frontend, Backend, Database, System Development และ IT Support** และชอบเรียนรู้เทคโนโลยีใหม่ ๆ เพื่อนำมาพัฒนาและปรับปรุงระบบให้มีประสิทธิภาพมากขึ้น
-
 🎓 จบการศึกษาระดับปริญญาตรี
 **สาขาเทคโนโลยีสารสนเทศสำหรับอุตสาหกรรมดิจิทัล
 คณะวิทยาการสารสนเทศ มหาวิทยาลัยบูรพา**
@@ -14,7 +12,6 @@
 ---
 
 ## 🚀 About Me
-
 * 💻 สนใจการพัฒนา **Web Application**
 * ⚙️ สามารถพัฒนา **Backend และ REST API**
 * 🗄️ มีประสบการณ์ใช้งาน **MySQL และ PostgreSQL**
@@ -82,26 +79,21 @@
 # 💼 Experience
 
 ### Software Developer Intern
-
 **TTT Brothers Co., Ltd.**
 📅 November 2025 – March 2026
-
 ระหว่างการฝึกงาน มีส่วนร่วมในการพัฒนาและปรับปรุงระบบ Web Application โดยเน้นด้าน Performance, Automation และ UI/UX
 
 #### ⚡ Performance Enhancement
-
 * นำ **Redis Cache** มาใช้กับระบบ
 * ปรับปรุงกระบวนการเพิ่ม แก้ไข และลบข้อมูล
 * ช่วยให้สามารถดึงข้อมูลจาก Cache ได้รวดเร็วยิ่งขึ้น
 
 #### 🔄 Data Pipeline Automation
-
 * พัฒนา Workflow Automation ด้วย **n8n**
 * ใช้ Hooks เพื่อรับและประมวลผลข้อมูล
 * นำเข้าข้อมูลจาก Text/File เข้าสู่ Database
 
 #### 🎨 UI/UX Improvement
-
 * ปรับปรุง User Interface
 * ปรับตำแหน่งและรูปแบบของ Label
 * นำ Feedback จากลูกค้ามาปรับปรุงระบบ
@@ -112,56 +104,28 @@
 # 📌 Featured Projects
 
 ## 🏠 Roommate Matching System
-
 **Web Application สำหรับค้นหาและจับคู่เพื่อนร่วมห้องสำหรับนักศึกษา**
 
 📅 May 2025 – October 2025
-
 ระบบช่วยให้นักศึกษาสามารถค้นหาเพื่อนร่วมห้องที่มีความเหมาะสม โดยพิจารณาจากข้อมูล เช่น
-
 * Lifestyle
 * ความสนใจ
 * ความเข้ากันได้ของผู้ใช้งาน
 
 🎯 **เป้าหมายของระบบ**
-
 ช่วยลดปัญหาความขัดแย้งระหว่างเพื่อนร่วมห้อง และช่วยให้นักศึกษาสามารถค้นหาเพื่อนร่วมห้องที่มีความเข้ากันได้มากขึ้น
 
 ---
-
 ## ☁️ Moodle on AWS Cloud
-
 **ระบบ Moodle ที่ติดตั้งบน Amazon Web Services**
 
 📅 January 2025 – February 2025
-
 * ติดตั้ง Moodle บน **AWS EC2**
 * ออกแบบ Cloud Architecture
 * แบ่งระบบออกเป็น Public และ Private Subnet
 * ใช้ **Load Balancer**
 * ใช้ **Amazon RDS** สำหรับ Database
 * ออกแบบระบบโดยคำนึงถึง Scalability
-
----
-
-# 🌱 Currently Learning
-* 🚀 Advanced React & Next.js
-* 🟦 TypeScript
-* ⚙️ Backend Development
-* 🗄️ Database Optimization
-* 🐳 Docker & Deployment
-* 📊 System Performance Optimization
-
----
-
-# 🤝 Soft Skills
-* 💪 ความรับผิดชอบ
-* 👥 Team Collaboration
-* 💬 Communication
-* 🤝 Interpersonal Skills
-* 👂 Active Listening
-* 📚 เรียนรู้สิ่งใหม่ได้รวดเร็ว
-* 🔧 สามารถปรับตัวเข้ากับสภาพแวดล้อมการทำงานได้
 
 ---
 
