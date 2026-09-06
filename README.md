@@ -1,25 +1,253 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Watcharakorn Aungchokchatchawan
-========================================================================================================================================================
+# 👋 สวัสดีครับ ผม Watcharakorn Aungchokchatchawan
 
-Aspiring Software Developer
----------------------------
+### 💻 Software Developer | Web Application Developer
 
-นักศึกษาปริญญาตรี สาขาเทคโนโลยีสารสนเทศสำหรับอุตสาหกรรมดิจิทัล จบจากมหาวิทยาลัยบูรพา
+ผมเป็นนักพัฒนาซอฟต์แวร์ที่สนใจด้าน **Web Application Development** และการนำเทคโนโลยีมาช่วยแก้ปัญหาในการทำงานจริง
 
-มีความสนใจในการสร้างเว็บไซต์ที่ใช้งานง่ายและสำรวจเทคโนโลยีใหม่ๆ
+มีความสนใจเป็นพิเศษในด้าน **Frontend, Backend, Database และ System Development** และชอบเรียนรู้เทคโนโลยีใหม่ ๆ เพื่อนำมาพัฒนาและปรับปรุงระบบให้มีประสิทธิภาพมากขึ้น
 
-เทคโนโลยีที่ใช้: HTML, CSS, JavaScript, Node.js , React.js , Ant Design
+🎓 จบการศึกษาระดับปริญญาตรี
+**สาขาเทคโนโลยีสารสนเทศสำหรับอุตสาหกรรมดิจิทัล
+คณะวิทยาการสารสนเทศ มหาวิทยาลัยบูรพา**
 
-* 🌍  I'm based in Chonburi , Thailand
-* ✉️  You can contact me at [watcharakorn.acccw@gmail.com](mailto:watcharakorn.acccw@gmail.com)
+📍 Chonburi, Thailand
+📧 **[watcharakorn.acccw@gmail.com](mailto:watcharakorn.acccw@gmail.com)**
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+---
+
+## 🚀 About Me
+
+* 💻 สนใจการพัฒนา **Web Application**
+* 🎨 สนใจด้าน **Frontend & UI/UX**
+* ⚙️ สามารถพัฒนา **Backend และ REST API**
+* 🗄️ มีประสบการณ์ใช้งาน **MySQL และ PostgreSQL**
+* 🚀 สนใจด้าน **Performance Optimization**
+* 🔄 เคยพัฒนา Workflow Automation ด้วย **n8n**
+* ⚡ เคยใช้งาน **Redis Cache** เพื่อเพิ่มประสิทธิภาพการเข้าถึงข้อมูล
+* ☁️ มีประสบการณ์ติดตั้งและออกแบบระบบบน **AWS Cloud**
+* 🐳 สนใจการใช้งาน **Docker**
+* 📚 ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และพัฒนาตัวเองอย่างต่อเนื่อง
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </p>
 
-### Socials
+**JavaScript • TypeScript • Java**
 
-<p align="left"> <a href="https://www.github.com/bewkung" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+### 🎨 Frontend
 
-<a href="https://github.com/bewkung" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bewkung&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+**React • Next.js • HTML • CSS • Ant Design**
+
+### ⚙️ Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+</p>
+
+**Node.js • Express**
+
+### 🗄️ Database & Cache
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/>
+</p>
+
+**MySQL • PostgreSQL • Redis**
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+</p>
+
+**Git • Docker • AWS • Postman • Figma • n8n**
+
+---
+
+# 💼 Experience
+
+### Software Developer Intern
+
+**TTT Brothers Co., Ltd.**
+📅 November 2025 – March 2026
+
+ระหว่างการฝึกงาน มีส่วนร่วมในการพัฒนาและปรับปรุงระบบ Web Application โดยเน้นด้าน Performance, Automation และ UI/UX
+
+#### ⚡ Performance Enhancement
+
+* นำ **Redis Cache** มาใช้กับระบบ
+* ปรับปรุงกระบวนการเพิ่ม แก้ไข และลบข้อมูล
+* ช่วยให้สามารถดึงข้อมูลจาก Cache ได้รวดเร็วยิ่งขึ้น
+
+#### 🔄 Data Pipeline Automation
+
+* พัฒนา Workflow Automation ด้วย **n8n**
+* ใช้ Hooks เพื่อรับและประมวลผลข้อมูล
+* นำเข้าข้อมูลจาก Text/File เข้าสู่ Database
+
+#### 🎨 UI/UX Improvement
+
+* ปรับปรุง User Interface
+* ปรับตำแหน่งและรูปแบบของ Label
+* นำ Feedback จากลูกค้ามาปรับปรุงระบบ
+* เพิ่มความสะดวกในการใช้งานโดยรวม
+
+---
+
+# 📌 Featured Projects
+
+## 🏠 Roommate Matching System
+
+**Web Application สำหรับค้นหาและจับคู่เพื่อนร่วมห้องสำหรับนักศึกษา**
+
+📅 May 2025 – October 2025
+
+ระบบช่วยให้นักศึกษาสามารถค้นหาเพื่อนร่วมห้องที่มีความเหมาะสม โดยพิจารณาจากข้อมูล เช่น
+
+* Lifestyle
+* ความสนใจ
+* ความเข้ากันได้ของผู้ใช้งาน
+
+🎯 **เป้าหมายของระบบ**
+
+ช่วยลดปัญหาความขัดแย้งระหว่างเพื่อนร่วมห้อง และช่วยให้นักศึกษาสามารถค้นหาเพื่อนร่วมห้องที่มีความเข้ากันได้มากขึ้น
+
+---
+
+## ☁️ Moodle on AWS Cloud
+
+**ระบบ Moodle ที่ติดตั้งบน Amazon Web Services**
+
+📅 January 2025 – February 2025
+
+* ติดตั้ง Moodle บน **AWS EC2**
+* ออกแบบ Cloud Architecture
+* แบ่งระบบออกเป็น Public และ Private Subnet
+* ใช้ **Load Balancer**
+* ใช้ **Amazon RDS** สำหรับ Database
+* ออกแบบระบบโดยคำนึงถึง Scalability
+
+### Architecture
+
+```text
+                 🌐 Internet
+                      │
+                      ▼
+              ┌───────────────┐
+              │ Load Balancer │
+              └───────┬───────┘
+                      │
+              Public Subnet
+                      │
+                      ▼
+               ┌────────────┐
+               │   EC2      │
+               │   Moodle   │
+               └─────┬──────┘
+                     │
+              Private Subnet
+                     │
+                     ▼
+               ┌────────────┐
+               │    RDS     │
+               │  Database  │
+               └────────────┘
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bewkung&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bewkung&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 My Development Interests
+
+```text
+Frontend Development     ████████████████████ 100%
+Backend Development      ██████████████████░░  90%
+Database                 ████████████████░░░░  80%
+Cloud / AWS              ██████████████░░░░░░  70%
+DevOps / Docker          █████████████░░░░░░░  65%
+Automation / n8n         █████████████░░░░░░░  65%
+UI / UX                  ██████████████░░░░░░  70%
+```
+
+---
+
+# 🌱 Currently Learning
+
+* 🚀 Advanced React & Next.js
+* 🟦 TypeScript
+* ⚙️ Backend Development
+* 🗄️ Database Optimization
+* ☁️ AWS Cloud
+* 🐳 Docker & Deployment
+* 🔄 Workflow Automation
+* 📊 System Performance Optimization
+
+---
+
+# 🤝 Soft Skills
+
+* 💪 ความรับผิดชอบ
+* 👥 Team Collaboration
+* 💬 Communication
+* 🤝 Interpersonal Skills
+* 👂 Active Listening
+* 📚 เรียนรู้สิ่งใหม่ได้รวดเร็ว
+* 🔧 สามารถปรับตัวเข้ากับสภาพแวดล้อมการทำงานได้
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:watcharakorn.acccw@gmail.com">
+<img src="https://img.shields.io/badge/Email-watcharakorn.acccw%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/bewkung">
+<img src="https://img.shields.io/badge/GitHub-bewkung-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 "Build. Learn. Improve. Repeat."
+
+⭐ ขอบคุณที่เข้ามาเยี่ยมชม GitHub Profile ของผมครับ!
+
+</p>
+
