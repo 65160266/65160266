@@ -122,10 +122,6 @@
 ---
 
 <p align="center">
-
-### 💻 "Build. Learn. Improve. Repeat."
-
 ⭐ ขอบคุณที่เข้ามาเยี่ยมชม GitHub Profile ของผมครับ!
-
 </p>
 
