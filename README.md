@@ -116,16 +116,13 @@
 ช่วยลดปัญหาความขัดแย้งระหว่างเพื่อนร่วมห้อง และช่วยให้นักศึกษาสามารถค้นหาเพื่อนร่วมห้องที่มีความเข้ากันได้มากขึ้น
 
 ---
-## ☁️ Moodle on AWS Cloud
-**ระบบ Moodle ที่ติดตั้งบน Amazon Web Services**
+# 🎫 Helpdesk System
+Web Application สำหรับแจ้งและจัดการปัญหาภายในองค์กร
 
-📅 January 2025 – February 2025
-* ติดตั้ง Moodle บน **AWS EC2**
-* ออกแบบ Cloud Architecture
-* แบ่งระบบออกเป็น Public และ Private Subnet
-* ใช้ **Load Balancer**
-* ใช้ **Amazon RDS** สำหรับ Database
-* ออกแบบระบบโดยคำนึงถึง Scalability
+พัฒนาด้วย Node.js, Express และ MySQL
+รองรับการสร้างและติดตาม Ticket แจ้งปัญหา
+จัดการสถานะและมอบหมายงานให้เจ้าหน้าที่
+มีระบบจัดการผู้ใช้งานและสิทธิ์การเข้าถึง
 
 ---
 
