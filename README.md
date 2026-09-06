@@ -2,9 +2,7 @@
 
 ### 💻 Software Developer | Web Application Developer
 
-ผมเป็นนักพัฒนาซอฟต์แวร์ที่สนใจด้าน **Web Application Development** และการนำเทคโนโลยีมาช่วยแก้ปัญหาในการทำงานจริง
-
-มีความสนใจเป็นพิเศษในด้าน **Frontend, Backend, Database และ System Development** และชอบเรียนรู้เทคโนโลยีใหม่ ๆ เพื่อนำมาพัฒนาและปรับปรุงระบบให้มีประสิทธิภาพมากขึ้น
+มีความสนใจเป็นพิเศษในด้าน **Frontend, Backend, Database, System Development และ IT Support** และชอบเรียนรู้เทคโนโลยีใหม่ ๆ เพื่อนำมาพัฒนาและปรับปรุงระบบให้มีประสิทธิภาพมากขึ้น
 
 🎓 จบการศึกษาระดับปริญญาตรี
 **สาขาเทคโนโลยีสารสนเทศสำหรับอุตสาหกรรมดิจิทัล
@@ -23,7 +21,7 @@
 * 🚀 สนใจด้าน **Performance Optimization**
 * ⚡ เคยใช้งาน **Redis Cache** เพื่อเพิ่มประสิทธิภาพการเข้าถึงข้อมูล
 * 🐳 สนใจการใช้งาน **Docker**
-* 📚 ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และพัฒนาตัวเองอย่างต่อเนื่อง
+* 📚 ชอบเรียนรู้เทคโนโลยีใหม่ๆ 
 
 ---
 
@@ -147,7 +145,6 @@
 ---
 
 # 🌱 Currently Learning
-
 * 🚀 Advanced React & Next.js
 * 🟦 TypeScript
 * ⚙️ Backend Development
@@ -158,7 +155,6 @@
 ---
 
 # 🤝 Soft Skills
-
 * 💪 ความรับผิดชอบ
 * 👥 Team Collaboration
 * 💬 Communication
@@ -166,22 +162,6 @@
 * 👂 Active Listening
 * 📚 เรียนรู้สิ่งใหม่ได้รวดเร็ว
 * 🔧 สามารถปรับตัวเข้ากับสภาพแวดล้อมการทำงานได้
-
----
-
-# 📫 Contact Me
-
-<p align="center">
-
-<a href="mailto:watcharakorn.acccw@gmail.com">
-<img src="https://img.shields.io/badge/Email-watcharakorn.acccw%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/bewkung">
-<img src="https://img.shields.io/badge/GitHub-bewkung-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
 
 ---
 
