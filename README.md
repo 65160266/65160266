@@ -18,13 +18,10 @@
 ## 🚀 About Me
 
 * 💻 สนใจการพัฒนา **Web Application**
-* 🎨 สนใจด้าน **Frontend & UI/UX**
 * ⚙️ สามารถพัฒนา **Backend และ REST API**
 * 🗄️ มีประสบการณ์ใช้งาน **MySQL และ PostgreSQL**
 * 🚀 สนใจด้าน **Performance Optimization**
-* 🔄 เคยพัฒนา Workflow Automation ด้วย **n8n**
 * ⚡ เคยใช้งาน **Redis Cache** เพื่อเพิ่มประสิทธิภาพการเข้าถึงข้อมูล
-* ☁️ มีประสบการณ์ติดตั้งและออกแบบระบบบน **AWS Cloud**
 * 🐳 สนใจการใช้งาน **Docker**
 * 📚 ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และพัฒนาตัวเองอย่างต่อเนื่อง
 
@@ -147,35 +144,6 @@
 * ใช้ **Amazon RDS** สำหรับ Database
 * ออกแบบระบบโดยคำนึงถึง Scalability
 
-### Architecture
-
-```text
-                 🌐 Internet
-                      │
-                      ▼
-              ┌───────────────┐
-              │ Load Balancer │
-              └───────┬───────┘
-                      │
-              Public Subnet
-                      │
-                      ▼
-               ┌────────────┐
-               │   EC2      │
-               │   Moodle   │
-               └─────┬──────┘
-                     │
-              Private Subnet
-                     │
-                     ▼
-               ┌────────────┐
-               │    RDS     │
-               │  Database  │
-               └────────────┘
-```
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -188,29 +156,13 @@
 
 ---
 
-# 📈 My Development Interests
-
-```text
-Frontend Development     ████████████████████ 100%
-Backend Development      ██████████████████░░  90%
-Database                 ████████████████░░░░  80%
-Cloud / AWS              ██████████████░░░░░░  70%
-DevOps / Docker          █████████████░░░░░░░  65%
-Automation / n8n         █████████████░░░░░░░  65%
-UI / UX                  ██████████████░░░░░░  70%
-```
-
----
-
 # 🌱 Currently Learning
 
 * 🚀 Advanced React & Next.js
 * 🟦 TypeScript
 * ⚙️ Backend Development
 * 🗄️ Database Optimization
-* ☁️ AWS Cloud
 * 🐳 Docker & Deployment
-* 🔄 Workflow Automation
 * 📊 System Performance Optimization
 
 ---
