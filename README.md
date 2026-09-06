@@ -118,7 +118,7 @@
 ---
 # 🎫 Helpdesk System
 
-ระบบ Web Application สำหรับ แจ้งปัญหา ติดตาม Ticket และจัดการงานของเจ้าหน้าที่ พัฒนาด้วย Node.js, Express และ MySQL พร้อมระบบจัดการผู้ใช้งานและสถานะของ Ticket
+* ระบบ Web Application สำหรับ แจ้งปัญหา ติดตาม Ticket และจัดการงานของเจ้าหน้าที่ พัฒนาด้วย Node.js, Express และ MySQL พร้อมระบบจัดการผู้ใช้งานและสถานะของ Ticket
 ---
 
 <p align="center">
